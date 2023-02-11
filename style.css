@@ -1,0 +1,49 @@
+*{
+    padding: 0;
+    margin:0;
+    box-sizing: border-box;
+}
+
+#navbar{
+    width: 100%;
+    padding: 29px 38px;
+    background-color: #000;
+}
+#navbar a{
+    font-size: 24px;
+    color: #fff;
+    text-decoration: none;
+}
+.main-wrapper{
+    padding: 53px 38px 28px 38px;
+}
+.main-wrapper h1{
+    font-size: 64px;
+    font-weight: 400;
+    margin-bottom: 25px;
+}
+.main-wrapper p{
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 30px;
+}
+ button{
+    font-size: 24px;
+    padding: 12px 48px;
+    background-color: #000;
+    color: #fff;
+    margin: 50px 0;
+    cursor: pointer;
+}
+ol li{
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 29px;
+    margin-left: 24px;
+}
+ul li{
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 29px;
+    margin-left: 24px;
+}
